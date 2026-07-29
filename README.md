@@ -80,4 +80,4 @@ git commits              879   (774 in the last 90 days)
 
 ---
 
-*for the deep dive → [proof surface](https://claude.ai/code/artifact/d0faa436-38f7-40e9-b54d-a3861e881262)*
+*for the deep dive → [alexy-joven.vercel.app](https://alexy-joven.vercel.app)*
