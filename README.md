@@ -101,7 +101,7 @@ still needs a human in the loop for the judgment calls the machine shouldn't be 
 
 ---
 
-### recent build (for fun) · 2026
+### recent build · 2026
 
 **modjo content engine.** a brand-locked, multi-tenant, multi-format video factory. one-line prompt → ready-to-post clip in ~2 hours.
 
