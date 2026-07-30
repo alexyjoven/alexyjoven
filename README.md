@@ -80,4 +80,4 @@ git commits              879   (774 in the last 90 days)
 
 ---
 
-*for the deep dive → [alexy-joven.vercel.app](https://alexy-joven.vercel.app)*
+*for the deep dive → [alexy.modjo.me](https://alexy.modjo.me)*
