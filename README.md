@@ -22,17 +22,17 @@ so i built systems that bridge it:
 
 ### selected results
 
-| company        | what happened                                                                          |
-| :------------- | :------------------------------------------------------------------------------------- |
-| Reveel Pay(ID) | $26M deposits, $200M transaction volume, in 60 days                                    |
-| Elixir Games   | $14M revenue, 250% over target, marketing spend cut 65%                                |
-| Green-In       | 4,000-person festival, $1M+ ARR, built from a garden at 22                             |
-| Jeux d'Hiver   | 80,000 paying customers in 4 months, brussels' most prestigious venue                  |
-| Modjo          | 70+ tech companies scaled across entertainment, ai, fintech, blockchain · 50+ growth projects · teams of 20+ · bootstrapped to millions |
+| company           | year      | what happened                                                                             |
+| :---------------- | :-------- | :---------------------------------------------------------------------------------------- |
+| Reveel Pay(ID)    | 2025      | $26M deposits, $200M transaction volume, in 60 days                                       |
+| Elixir Games      | 2024      | $14M revenue, 250% over target, marketing spend cut 65%                                   |
+| Jeux d'Hiver      | 2022      | 80,000 paying customers in 6 months, brussels' most prestigious venue                     |
+| Green-In          | 2019–2021 | 4,000-person festival, $1M+ ARR, built from a garden at 22                                |
+| Modjo             | 2023–2026 | 70+ clients across entertainment, ai, fintech, blockchain · teams of 20+ · $2M+ bootstrapped |
 
 ---
 
-### the technical turn
+### the technical turn · since 2024
 
 the last two years i went deeper on the technical and engineering side.
 
@@ -62,7 +62,7 @@ pre-seed to series A founders on growth marketing, funnel design and community. 
 
 ---
 
-### outside signal
+### outside signal · march 2026
 
 **30 Global Founders to Watch.** by aspire, in collaboration with lightspeed venture partners and deel. the cohort recognises founders who crossed borders to build in the us and are now redefining what's possible.
 
@@ -70,7 +70,7 @@ pre-seed to series A founders on growth marketing, funnel design and community. 
 
 ---
 
-### recent build (for fun)
+### recent build (for fun) · 2026
 
 **modjo content engine.** a brand-locked, multi-tenant, multi-format video factory. remotion + elevenlabs + v0 + whisper, orchestrated through claude code. proof that the same operating pattern that runs the b2b engine can run creative production.
 
