@@ -37,9 +37,9 @@ i run my own company as queryable code. an ontology of every customer, machine-e
 ```
 registered spec nodes    523
 systems                   23
-spec files               599
+spec files               615
 python & shell modules    91
-git commits              879   (774 in the last 90 days)
+git commits              885   (780 in the last 90 days)
 ```
 
 *regenerable count · re-run 2026-07-30 · v4 pre-commit + ci · one home per matter · mcp query layer.*
@@ -107,6 +107,8 @@ techstars · berkeley skydeck · nucleate · outlier ventures · onepiece labs. 
 ### recent build (for fun) · 2026
 
 **modjo content engine.** a brand-locked, multi-tenant, multi-format video factory. remotion + elevenlabs + v0 + whisper, orchestrated through claude code. proof that the same operating pattern that runs the b2b engine can run creative production.
+
+→ one output plays on [alexy.modjo.me](https://alexy.modjo.me) under this section (xy.ai brand-locked).
 
 ---
 
