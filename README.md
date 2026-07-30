@@ -1,8 +1,10 @@
+> **→ start here: [alexy.modjo.me](https://alexy.modjo.me)** · this readme is the extension.
+
 ### hi, i'm alexy.
 
 **head of growth · marketing engineer.**
-b2b + prosumer · formerly founder @ [modjo](https://www.modjo.me/) · brussels + nyc.
-fr/en/es/nl · belgian + spanish · b. brussels 1995 · solvay brussels school (management sciences + economics).
+b2b + prosumer · formerly founder @ [modjo](https://www.modjo.me/) · nyc + brussels.
+fr/en/es/nl · belgian + spanish · b. brussels 1995 · solvay · bachelor + master.
 
 spent the last decade building growth systems for b2b and b2c companies. from zero to millions in revenue and fundraise. my own companies. my clients'.
 
@@ -78,13 +80,13 @@ pre-seed to series A founders on growth marketing, funnel design and community. 
 
 ### writing
 
-**[CMOs Can't Execute](https://www.linkedin.com/feed/update/urn:li:activity:7409608835339939841/)** · jan 2026 · 1,032 reactions · 180 comments. the thesis on why head-of-growth seats are opening in the shape they are, and why early-stage companies will skip cmo hires in the 24-month horizon.
+**[CMOs Can't Execute](https://www.linkedin.com/feed/update/urn:li:activity:7409608835339939841/)** · jan 2026 · **18,701 followers** · 1,032 reactions on this post · 180 comments. the thesis on why head-of-growth seats are opening in the shape they are, and why early-stage companies will skip cmo hires in the 24-month horizon.
 
 ---
 
 ### now
 
-- brussels + nyc.
+- nyc + brussels.
 - open to head-of-growth / marketing-engineer conversations at b2b + prosumer companies.
 
 ---
