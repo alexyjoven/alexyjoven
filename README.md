@@ -1,7 +1,8 @@
 ### hi, i'm alexy.
 
 **head of growth · marketing engineer.**
-b2b + prosumer · formerly founder @ [modjo](https://www.modjo.me/) · new york.
+b2b + prosumer · formerly founder @ [modjo](https://www.modjo.me/) · brussels + nyc.
+fr/en/es/nl · belgian + spanish · b. brussels 1995 · solvay brussels school (management sciences + economics).
 
 spent the last decade building growth systems for b2b and b2c companies. from zero to millions in revenue and fundraise. my own companies. my clients'.
 
@@ -27,15 +28,15 @@ so i built systems that bridge it:
 | Elixir Games   | $14M revenue, 250% over target, marketing spend cut 65%                                |
 | Green-In       | 4,000-person festival, $1M+ ARR, built from a garden at 22                             |
 | Jeux d'Hiver   | 80,000 paying customers in 4 months, brussels' most prestigious venue                  |
-| Modjo          | 70+ tech companies scaled across entertainment, ai, fintech · 50+ growth projects · teams of 20+ · bootstrapped to millions |
+| Modjo          | 70+ tech companies scaled across entertainment, ai, fintech, blockchain · 50+ growth projects · teams of 20+ · bootstrapped to millions |
 
 ---
 
-### the engineering turn
+### the technical turn
 
-the last three years i went deeper on the engineering side.
+the last two years i went deeper on the technical and engineering side.
 
-i run my own company as queryable code. an ontology of every customer, machine-enforced rules, agents that source, score and route, governance that blocks bad data at commit time.
+i run my own company as queryable code. an ontology of every customer, machine-enforced rules, agents that source, score and route, governance that blocks bad data at commit time. same discipline applied to the growth stack itself: attribution, martech ops, data model, funnel eng.
 
 ```
 registered spec nodes    523
@@ -46,6 +47,18 @@ git commits              879   (774 in the last 90 days)
 ```
 
 *regenerable count · re-run 2026-07-30 · v4 pre-commit + ci · one home per matter · mcp query layer.*
+
+**built one for [xy.ai](https://xy.ai)** — AI-native healthcare RCM company at ~$1.6M ARR (Sam De Brouwer, CEO). in 4 weeks: 385 companies mapped, 1,500 decision-makers at 95% hit rate, 4 committee campaigns (CFO / CEO / COO / Champion) staged, 8 dedicated sending domains, 16 warmed inboxes. trust engine (n8n + claude) auto-classifies every reply hot/warm/cold/ooo, logs to hubspot, pings slack. daily safety net cross-checks hubspot + twenty + amplemarket, blocks matches before any smartlead send fires. ~4,000 buying-intent signals via 5 listening searches. hipaa + soc 2 posture, structurally phi-free.
+
+---
+
+### prior work
+
+**bl0x** · growth marketing · paris · 2022–2023
+50+ clients: binance, ledger, animoca, pmu, lacoste. growth (influence, content, pr, collabs) + community & social media.
+
+**accelerator mentor** · techstars · berkeley skydeck · nucleate · outlier ventures · onepiece labs · 2024–2026
+pre-seed to series A founders on growth marketing, funnel design and community. asked because i'd done it: revenue from zero, repeatedly.
 
 ---
 
@@ -63,9 +76,15 @@ git commits              879   (774 in the last 90 days)
 
 ---
 
+### writing
+
+**[CMOs Can't Execute](https://www.linkedin.com/feed/update/urn:li:activity:7409608835339939841/)** · jan 2026 · 1,032 reactions · 180 comments — the thesis on why head-of-growth seats are opening in the shape they are, and why early-stage companies will skip cmo hires in the 24-month horizon.
+
+---
+
 ### now
 
-- new york.
+- brussels + nyc.
 - open to head-of-growth / marketing-engineer conversations at b2b + prosumer companies.
 
 ---
@@ -75,6 +94,7 @@ git commits              879   (774 in the last 90 days)
 - linkedin · [alexy-joven-405075107](https://www.linkedin.com/in/alexy-joven-405075107/)
 - x (technical dives) · [@alexyjoven](https://x.com/alexyjoven)
 - email · alexy@modjo.me
+- phone · +32 479 30 39 74
 - web · [modjo.me](https://www.modjo.me/)
 
 ---
