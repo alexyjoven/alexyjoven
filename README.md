@@ -48,7 +48,7 @@ git commits              879   (774 in the last 90 days)
 
 *regenerable count · re-run 2026-07-30 · v4 pre-commit + ci · one home per matter · mcp query layer.*
 
-**built one for [xy.ai](https://xy.ai)** — AI-native healthcare RCM company at ~$1.6M ARR (Sam De Brouwer, CEO). in 4 weeks: 385 companies mapped, 1,500 decision-makers at 95% hit rate, 4 committee campaigns (CFO / CEO / COO / Champion) staged, 8 dedicated sending domains, 16 warmed inboxes. trust engine (n8n + claude) auto-classifies every reply hot/warm/cold/ooo, logs to hubspot, pings slack. daily safety net cross-checks hubspot + twenty + amplemarket, blocks matches before any smartlead send fires. ~4,000 buying-intent signals via 5 listening searches. hipaa + soc 2 posture, structurally phi-free.
+**built one for [xy.ai](https://xy.ai)**, AI-native healthcare RCM company at ~$1.6M ARR (Sam De Brouwer, CEO). in 4 weeks: 385 companies mapped, 1,500 decision-makers at 95% hit rate, 4 committee campaigns (CFO / CEO / COO / Champion) staged, 8 dedicated sending domains, 16 warmed inboxes. trust engine (n8n + claude) auto-classifies every reply hot/warm/cold/ooo, logs to hubspot, pings slack. daily safety net cross-checks hubspot + twenty + amplemarket, blocks matches before any smartlead send fires. ~4,000 buying-intent signals via 5 listening searches. hipaa + soc 2 posture, structurally phi-free.
 
 ---
 
@@ -78,7 +78,7 @@ pre-seed to series A founders on growth marketing, funnel design and community. 
 
 ### writing
 
-**[CMOs Can't Execute](https://www.linkedin.com/feed/update/urn:li:activity:7409608835339939841/)** · jan 2026 · 1,032 reactions · 180 comments — the thesis on why head-of-growth seats are opening in the shape they are, and why early-stage companies will skip cmo hires in the 24-month horizon.
+**[CMOs Can't Execute](https://www.linkedin.com/feed/update/urn:li:activity:7409608835339939841/)** · jan 2026 · 1,032 reactions · 180 comments. the thesis on why head-of-growth seats are opening in the shape they are, and why early-stage companies will skip cmo hires in the 24-month horizon.
 
 ---
 
