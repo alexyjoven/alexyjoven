@@ -39,7 +39,7 @@ registered spec nodes    523
 systems                   23
 spec files               615
 python & shell modules    91
-git commits              885   (780 in the last 90 days)
+git commits             ~885   (~780 in the last 90 days)
 ```
 
 *regenerable count · re-run 2026-07-30 · v4 pre-commit + ci · one home per matter · mcp query layer.*
