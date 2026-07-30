@@ -112,7 +112,7 @@ techstars · berkeley skydeck · nucleate · outlier ventures · onepiece labs. 
 
 **cost: ~$82/mo full stack**, a few dollars per output. self-serve for the whole team via one shared claude code seat + shared 1password vault of API keys.
 
-**built with georgi selivjorstov** — production lead, i trained him to be ai-native. two hours per video, no designer-hours or animator-hours in the loop.
+**built with georgi selivjorstov**, production lead. i trained him to be ai-native. two hours per video, no designer-hours or animator-hours in the loop.
 
 **shape**: engine replaces the shop. built once (multi-tenant, brand-locked via one tokens.ts swap per client), then every future video runs at marginal cost. same operating pattern that runs the b2b engine, applied to creative production.
 
