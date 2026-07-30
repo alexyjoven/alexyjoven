@@ -99,4 +99,4 @@ pre-seed to series A founders on growth marketing, funnel design and community. 
 
 ---
 
-*for the deep dive → [alexy.modjo.me](https://alexy.modjo.me)*
+*start here → [alexy.modjo.me](https://alexy.modjo.me) · this readme is the extension.*
