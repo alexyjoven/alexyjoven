@@ -21,14 +21,13 @@ so i built systems that bridge it:
 
 ### selected results
 
-| company        | what happened                                                                 |
-| :------------- | :---------------------------------------------------------------------------- |
-| Reveel Pay(ID) | $26M deposits, $200M transaction volume, in 60 days                           |
-| Elixir Games   | $14M revenue, 250% over target, marketing spend cut 65%                       |
-| Green-In       | 4,000-person festival, $1M+ ARR, built from a garden at 22                    |
-| Jeux d'Hiver   | 80,000 paying customers in 4 months, brussels' most prestigious venue         |
-
-**70+ tech companies** helped across entertainment, ai, fintech.
+| company        | what happened                                                                          |
+| :------------- | :------------------------------------------------------------------------------------- |
+| Reveel Pay(ID) | $26M deposits, $200M transaction volume, in 60 days                                    |
+| Elixir Games   | $14M revenue, 250% over target, marketing spend cut 65%                                |
+| Green-In       | 4,000-person festival, $1M+ ARR, built from a garden at 22                             |
+| Jeux d'Hiver   | 80,000 paying customers in 4 months, brussels' most prestigious venue                  |
+| Modjo          | 70+ tech companies scaled across entertainment, ai, fintech · 50+ growth projects · teams of 20+ · bootstrapped to millions |
 
 ---
 
@@ -67,7 +66,7 @@ git commits              879   (774 in the last 90 days)
 ### now
 
 - new york.
-- open to head-of-growth / marketing-engineer conversations at series a / b + prosumer companies.
+- open to head-of-growth / marketing-engineer conversations at b2b + prosumer companies.
 
 ---
 
