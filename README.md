@@ -44,7 +44,7 @@ git commits             ~885   (~780 in the last 90 days)
 
 *regenerable count · re-run 2026-07-30 · v4 pre-commit + ci · one home per matter · mcp query layer.*
 
-**built one for [xy.ai](https://xy.ai)**, AI-native healthcare RCM company at ~$1.6M ARR (Sam De Brouwer, CEO). in 4 weeks: ~1,500 target companies mapped with the full buying team at each, 1,559 decision-makers at 95% hit rate, 8 committee-role campaigns (CFO / CEO / CIO / COO / Champion / DRC / Office Manager / Admin Manager) staged, 8 dedicated sending domains, 16 warmed inboxes, 3,050 emails/week at <2% bounce. trust engine (n8n + claude) auto-classifies every reply hot/warm/cold/ooo, logs to hubspot, pings slack. daily safety net cross-checks hubspot + twenty + amplemarket, blocks matches before any smartlead send fires. ~4,000 buying-intent signals via 5 listening searches. hipaa + soc 2 posture, structurally phi-free.
+**built one for [xy.ai](https://xy.ai)**, AI-native healthcare RCM company at ~$1.6M ARR. in 4 weeks: ~1,500 target companies mapped with the full buying team at each, 1,559 decision-makers at 95% hit rate, 8 committee-role campaigns (CFO / CEO / CIO / COO / Champion / DRC / Office Manager / Admin Manager) staged, 8 dedicated sending domains, 16 warmed inboxes, 3,050 emails/week at <2% bounce. trust engine (n8n + claude) auto-classifies every reply hot/warm/cold/ooo, logs to hubspot, pings slack. daily safety net cross-checks hubspot + twenty + amplemarket, blocks matches before any smartlead send fires. ~4,000 buying-intent signals via 5 listening searches. hipaa + soc 2 posture, structurally phi-free.
 
 ---
 
