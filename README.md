@@ -4,7 +4,7 @@
 
 **head of growth · marketing engineer.**
 b2b + prosumer · formerly founder @ [modjo](https://www.modjo.me/) · nyc + brussels.
-fr/en/es/nl · belgian + spanish · b. brussels 1995 · Solvay Business School · Bachelor's in Economics · Master's in Finance.
+fr/en/es/nl · belgian + spanish · b. brussels 1995 · solvay business school · economics + finance.
 
 spent the last decade building growth systems for b2b and b2c companies. from zero to millions in revenue and fundraise. my own companies. my clients'.
 
@@ -12,7 +12,7 @@ spent the last decade building growth systems for b2b and b2c companies. from ze
 
 ### the difference
 
-**growth systems built as code, not slides.** one queryable substrate underneath. every event is a fact. every axiom runs as a rule. the engines self-improve because they talk to each other over the ontology, not over meetings.
+**growth systems built as code.** one queryable substrate underneath. every event is a fact. every axiom runs as a rule. the engines self-improve because they talk to each other over the ontology.
 
 ---
 
@@ -22,7 +22,7 @@ spent the last decade building growth systems for b2b and b2c companies. from ze
 | :---------------- | :-------- | :---------------------------------------------------------------------------------------- |
 | Reveel Pay(ID)    | 2025      | $26M deposits, $200M transaction volume, in 60 days                                       |
 | Elixir Games      | 2024      | $14M revenue, 250% over target, marketing spend cut 65%                                   |
-| Jeux d'Hiver      | 2022      | 80,000 paying customers in 6 months, brussels' most prestigious venue                     |
+| Jeux d'Hiver      | 2022      | 60,000+ paying customers in 6 months, brussels' most prestigious venue                    |
 | Green-In          | 2019–2021 | 4,000-person festival, $1M+ ARR, built from a garden at 22                                |
 | Modjo             | 2023–2026 | 70+ clients across entertainment, ai, fintech, blockchain · teams of 20+ · $2M+ bootstrapped |
 
@@ -91,8 +91,8 @@ still needs a human in the loop for the judgment calls the machine shouldn't be 
 **bl0x** · growth marketing · paris · 2022–2023
 50+ clients: binance, ledger, animoca, pmu, lacoste. growth (influence, content, pr, collabs) + community & social media.
 
-**accelerator mentor** · techstars · berkeley skydeck · nucleate · outlier ventures · onepiece labs · 2024–2026
-pre-seed to series A founders on growth marketing, funnel design and community. asked because i'd done it: revenue from zero, repeatedly.
+**accelerator mentor** · growth · 5 accelerators · 2024–2026
+techstars · berkeley skydeck · nucleate · outlier ventures · onepiece labs. pre-seed to series A founders on growth marketing, funnel design and community.
 
 ---
 
