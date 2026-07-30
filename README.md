@@ -10,15 +10,9 @@ spent the last decade building growth systems for b2b and b2c companies. from ze
 
 ---
 
-### the pattern i kept seeing
+### the difference
 
-companies had great tech. they couldn't translate it into momentum. the gap wasn't strategy or execution alone. it was the *integration* between them.
-
-so i built systems that bridge it:
-
-→ product-led growth mechanics that make complex tech spread virally
-→ growth systems that attract customers and scale revenue systematically
-→ market positioning that turns technical innovation into adoption
+**growth systems built as code, not slides.** one queryable substrate underneath. every event is a fact. every axiom runs as a rule. the engines self-improve because they talk to each other over the ontology, not over meetings.
 
 ---
 
