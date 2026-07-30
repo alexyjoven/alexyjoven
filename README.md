@@ -91,9 +91,6 @@ still needs a human in the loop for the judgment calls the machine shouldn't be 
 **bl0x** · growth marketing · paris · 2022–2023
 50+ clients: binance, ledger, animoca, pmu, lacoste. growth (influence, content, pr, collabs) + community & social media.
 
-**accelerator mentor** · growth · 5 accelerators · 2024–2026
-techstars · berkeley skydeck · nucleate · outlier ventures · onepiece labs. pre-seed to series A founders on growth marketing, funnel design and community.
-
 ---
 
 ### outside signal · march 2026
