@@ -106,7 +106,15 @@ techstars · berkeley skydeck · nucleate · outlier ventures · onepiece labs. 
 
 ### recent build (for fun) · 2026
 
-**modjo content engine.** a brand-locked, multi-tenant, multi-format video factory. remotion + elevenlabs + v0 + whisper, orchestrated through claude code. proof that the same operating pattern that runs the b2b engine can run creative production.
+**modjo content engine.** a brand-locked, multi-tenant, multi-format video factory. one-line prompt → ready-to-post clip in ~2 hours.
+
+**stack (8):** remotion (react video framework, every frame is JSX) · elevenlabs (voice, music, SFX) · v0.app (react+tailwind UIs) · figma + MCP (live brand pull) · screen studio (capture) · whisper (captions) · R3F (3D inside remotion). orchestrated through claude code.
+
+**cost: ~$82/mo full stack**, a few dollars per output. self-serve for the whole team via one shared claude code seat + shared 1password vault of API keys.
+
+**built with georgi selivjorstov** — production lead, i trained him to be ai-native. two hours per video, no designer-hours or animator-hours in the loop.
+
+**shape**: engine replaces the shop. built once (multi-tenant, brand-locked via one tokens.ts swap per client), then every future video runs at marginal cost. same operating pattern that runs the b2b engine, applied to creative production.
 
 → one output plays on [alexy.modjo.me](https://alexy.modjo.me) under this section (xy.ai brand-locked).
 
