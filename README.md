@@ -16,7 +16,7 @@ spent the last decade building growth systems for b2b and b2c companies. from ze
 
 ---
 
-### selected results
+### prior work
 
 | company           | year      | what happened                                                                             |
 | :---------------- | :-------- | :---------------------------------------------------------------------------------------- |
@@ -25,6 +25,7 @@ spent the last decade building growth systems for b2b and b2c companies. from ze
 | Jeux d'Hiver      | 2022      | 60,000+ paying customers in 6 months, brussels' most prestigious venue                    |
 | Green-In          | 2019–2021 | 4,000-person festival, $1M+ ARR, built from a garden at 22                                |
 | Modjo             | 2023–2026 | 70+ clients across entertainment, ai, fintech, blockchain · teams of 20+ · $2M+ bootstrapped |
+| bl0x              | 2022–2023 | growth marketing, paris. 50+ clients: binance, ledger, animoca, pmu, lacoste. growth (influence, content, pr, collabs) + community & social media. |
 
 ---
 
@@ -85,11 +86,6 @@ next month's campaigns start with more data than this month's: which channels go
 still needs a human in the loop for the judgment calls the machine shouldn't be making alone. the engine does the work between those calls.
 
 ---
-
-### prior work
-
-**bl0x** · growth marketing · paris · 2022–2023
-50+ clients: binance, ledger, animoca, pmu, lacoste. growth (influence, content, pr, collabs) + community & social media.
 
 ---
 
