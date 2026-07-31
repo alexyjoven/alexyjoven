@@ -10,12 +10,6 @@ spent the last decade building growth systems for b2b and b2c companies. from ze
 
 ---
 
-### the difference
-
-**growth systems built as code.** one queryable substrate underneath. every event is a fact. every axiom runs as a rule. the engines self-improve because they talk to each other over the ontology.
-
----
-
 ### prior work
 
 | company           | year      | what happened                                                                             |
@@ -27,6 +21,12 @@ spent the last decade building growth systems for b2b and b2c companies. from ze
 | Green-In          | 2019–2021 | 4,000-person festival, $1M+ ARR, built from a garden at 22                                |
 | Modjo             | 2023–2026 | 70+ clients across entertainment, ai, fintech, blockchain · teams of 20+ · $2M+ bootstrapped |
 | bl0x              | 2022–2023 | growth marketing, paris. 50+ clients: binance, ledger, animoca, pmu, lacoste. growth (influence, content, pr, collabs) + community & social media. |
+
+---
+
+### the difference
+
+**growth systems built as code.** one queryable substrate underneath. every event is a fact. every axiom runs as a rule. the engines self-improve because they talk to each other over the ontology.
 
 ---
 
