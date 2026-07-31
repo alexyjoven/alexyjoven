@@ -21,6 +21,7 @@ spent the last decade building growth systems for b2b and b2c companies. from ze
 | company           | year      | what happened                                                                             |
 | :---------------- | :-------- | :---------------------------------------------------------------------------------------- |
 | Reveel Pay(ID)    | 2025      | $26M deposits, $200M transaction volume, in 60 days                                       |
+| xy.ai             | 2026      | ai-native healthcare RCM · ~$1.6M ARR · ~1,500 target companies mapped with full buying team · 12,500+ in the CRM · 3,050 emails/week at <2% bounce · AI reply classifier (n8n + Claude, hot/warm/cold/OOO) |
 | Elixir Games      | 2024      | $14M revenue, 250% over target, marketing spend cut 65%                                   |
 | Jeux d'Hiver      | 2022      | 60,000+ paying customers in 6 months, brussels' most prestigious venue                    |
 | Green-In          | 2019–2021 | 4,000-person festival, $1M+ ARR, built from a garden at 22                                |
@@ -45,7 +46,7 @@ git commits             ~885   (~780 in the last 90 days)
 
 *regenerable count · re-run 2026-07-30 · v4 pre-commit + ci · one home per matter · mcp query layer.*
 
-**built one for [xy.ai](https://xy.ai)**, AI-native healthcare RCM company at ~$1.6M ARR. in 4 weeks: ~1,500 target companies mapped with the full buying team at each (12,500+ people in the CRM, all xy.ai-relevant), 1,559 decision-makers at 95% hit rate, 8 committee-role campaigns (CFO / CEO / CIO / COO / Champion / DRC / Office Manager / Admin Manager) staged, 8 dedicated sending domains, 16 warmed inboxes, 3,050 emails/week at <2% bounce rate. trust engine (n8n + claude) auto-classifies every reply hot/warm/cold/ooo, logs to hubspot, pings slack. daily safety net cross-checks hubspot + twenty + amplemarket, blocks matches before any smartlead send fires. ~4,000 buying-intent signals via 5 listening searches. hipaa + soc 2 posture, structurally phi-free.
+**built one for [xy.ai](https://xy.ai)**, AI-native healthcare RCM company at ~$1.6M ARR. in 4 weeks: ~1,500 target companies mapped with the full buying team at each (12,500+ people in the CRM, all xy.ai-relevant), 1,559 decision-makers at 95% hit rate, 8 committee-role campaigns (CFO / CEO / CIO / COO / Champion / DRC / Office Manager / Admin Manager) staged, 8 dedicated sending domains, 16 warmed inboxes, 3,050 emails/week at <2% bounce rate. AI reply classifier (n8n + claude) auto-tags every reply hot/warm/cold/ooo, logs to hubspot, pings slack. daily safety net cross-checks hubspot + twenty + amplemarket, blocks matches before any smartlead send fires. ~4,000 buying-intent signals via 5 listening searches. hipaa + soc 2 posture, structurally phi-free.
 
 ---
 
@@ -71,7 +72,7 @@ the growth engine already knows every one of those facts because every event lan
 
 and it knows this from observed engagement in the ontology: this CFO has zero ad clicks across 4 months of retargeting. her VP of RCM has clicked twice. ops staff at her org open at a higher rate than the C-suite generally does. so the growth engine doesn't guess. it routes her personally to an InMail plus a cold email tuned to the specific signal she showed, and it targets the LinkedIn ad at her VP and the ops staff. same account, different levers per person, based on what actually got a response. not on a rule about "CFOs."
 
-the content engine writes the four narratives in parallel. the design engine ships the four assets in parallel. every reply the trust engine sees goes back into the ontology hot/warm/cold/ooo. next lead the funnel sees, the whole system already knows more.
+the content engine writes the four narratives in parallel. the design engine ships the four assets in parallel. every reply the AI reply classifier sees goes back into the ontology hot/warm/cold/ooo. next lead the funnel sees, the whole system already knows more.
 
 ---
 
