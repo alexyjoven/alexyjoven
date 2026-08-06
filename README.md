@@ -37,14 +37,14 @@ the last two years i went deeper on the technical and engineering side.
 i run my own company as queryable code. an ontology of every customer, machine-enforced rules, agents that source, score and route, governance that blocks bad data at commit time. same discipline applied to the growth stack itself: attribution, martech ops, data model, funnel eng.
 
 ```
-registered spec nodes   ~525
+registered spec nodes   ~530
 systems                   23
-spec files              ~665
+spec files              ~670
 python & shell modules    91
-git commits             ~930   (~800 in the last 90 days)
+git commits             ~990   (~850 in the last 90 days)
 ```
 
-*regenerable count · re-run 2026-08-05 · v4 pre-commit + ci · one home per matter · mcp query layer.*
+*regenerable count · re-run 2026-08-06 · v4 pre-commit + ci · one home per matter · mcp query layer.*
 
 **built one for [xy.ai](https://xy.ai)**, AI-native healthcare RCM company at ~$1.6M ARR. in 4 weeks: ~1,500 target companies mapped with the full buying team at each (12,500+ people in the CRM, all xy.ai-relevant), 1,559 decision-makers at 95% hit rate, 8 committee-role campaigns (CFO / CEO / CIO / COO / Champion / DRC / Office Manager / Admin Manager) staged, 8 dedicated sending domains, 16 warmed inboxes, 3,050 emails/week at <2% bounce rate. **a different message per committee role, not a different merge field**, routed off their role and org size, what they open and click, which competitors they engage, and the stack they run (detected via amplemarket). retargeting audiences are built per committee role off that same engagement data. AI reply classifier (n8n + claude) auto-tags every reply hot/warm/cold/ooo, logs to hubspot, pings slack. daily safety net cross-checks hubspot + twenty + amplemarket, blocks matches before any smartlead send fires. ~4,000 buying-intent signals via 5 listening searches. hipaa + soc 2 posture, structurally phi-free.
 
