@@ -26,7 +26,7 @@ spent the last decade building growth systems for b2b and prosumer companies. fr
 
 ### the difference
 
-**growth systems built as code.** one queryable substrate underneath. every event is a fact. every axiom runs as a rule. the engines self-improve because they talk to each other over the ontology.
+**growth systems built as code.** one queryable substrate underneath. every event is a fact. every axiom runs as a rule. the engines compound because they talk to each other over the ontology. every reply lands as a fact, so next month starts with more than this month did.
 
 ---
 
