@@ -1,4 +1,3 @@
-> **→ start here: [alexy.modjo.me](https://alexy.modjo.me)** · this readme is the extension.
 
 ### hi, i'm alexy.
 
@@ -110,7 +109,7 @@ still needs a human in the loop for the judgment calls the machine shouldn't be 
 
 **shape**: engine replaces the shop. built once (multi-tenant, brand-locked via one tokens.ts swap per client), then every future video runs at marginal cost. same operating pattern that runs the b2b engine, applied to creative production.
 
-→ one output plays on [alexy.modjo.me](https://alexy.modjo.me) under this section (xy.ai brand-locked).
+→ one output ships under xy.ai (brand-locked).
 
 ---
 
@@ -136,4 +135,3 @@ open to head-of-growth / marketing-engineer conversations at b2b + prosumer comp
 
 ---
 
-*start here → [alexy.modjo.me](https://alexy.modjo.me) · this readme is the extension.*
