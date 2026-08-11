@@ -3,7 +3,7 @@
 ### hi, i'm alexy.
 
 **head of growth · marketing engineer.**
-b2b + prosumer · formerly founder @ [modjo](https://www.modjo.me/) · nyc + brussels.
+b2b + prosumer · founder @ [modjo](https://www.modjo.me/) · brussels.
 fr/en/es/nl · belgian + spanish · b. brussels 1995 · Solvay Business School · Bachelor's in Economics · Master's in Finance.
 
 spent the last decade building growth systems for b2b and prosumer companies. from zero to millions in revenue and fundraise. my own companies. my clients'.
