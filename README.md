@@ -130,7 +130,6 @@ open to head-of-growth / marketing-engineer conversations at b2b + prosumer comp
 - linkedin · [alexy-joven-405075107](https://www.linkedin.com/in/alexy-joven-405075107/)
 - x (technical dives) · [@alexyjoven](https://x.com/alexyjoven)
 - email · alexy.joven@gmail.com
-- phone · (510) 221-6181
 - web · [modjo.me](https://www.modjo.me/)
 
 ---
