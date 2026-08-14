@@ -13,12 +13,12 @@ spent the last decade building growth systems for b2b and prosumer companies. fr
 
 | company           | year      | what happened                                                                             |
 | :---------------- | :-------- | :---------------------------------------------------------------------------------------- |
-| Reveel Pay(ID)    | 2025      | $26M deposits, $200M transaction volume, in 60 days                                       |
-| xy.ai             | 2026      | ai-native healthcare RCM · ~$1.6M ARR · built in 4 weeks · ~1,500 accounts mapped with the full buying team · 12,500+ in the CRM · 1,559 decision-makers at 95% · 3,050 emails/week at <2% bounce · ~4,000 intent signals · a different message and a different format per committee role, not a merge field (email · DM · InMail · ads · retargeting · video) · audiences built per role off the same engagement data |
-| Elixir Games      | 2024      | $14M revenue, 250% over target, marketing spend cut 65%                                   |
+| Reveel Pay(ID)    | 2025      | launched from zero, no prior brand or user base · $26M deposits, $200M transaction volume, in 60 days |
+| xy.ai             | 2026      | ai-native healthcare RCM · ~$1.6M ARR · full B2B growth engine built from zero in 4 weeks · ~1,500 accounts mapped with the full buying team · 12,500+ in the CRM · 1,559 decision-makers at 95% · 3,050 emails/week at <2% bounce · ~4,000 intent signals · a different message and a different format per committee role, not a merge field (email · DM · InMail · ads · retargeting · video) · audiences built per role off the same engagement data |
+| Elixir Games      | 2024      | launched from zero, no prior brand or user base · $14M revenue, 250% over target, marketing spend cut 65% |
 | Jeux d'Hiver      | 2022      | 60,000+ paying customers in 6 months, brussels' most prestigious venue                    |
 | Green-In          | 2019–2021 | 4,000-person festival, $1M+ ARR, built from a garden at 22                                |
-| Modjo             | 2023–2026 | 70+ clients across entertainment, ai, fintech, blockchain · teams of 20+ · $2M+ bootstrapped |
+| Modjo             | 2023–2026 | founded and bootstrapped to $2M+ · 70+ clients across entertainment, ai, fintech, blockchain · teams of 20+ |
 | bl0x              | 2022–2023 | growth marketing, paris. 50+ clients: binance, ledger, animoca, pmu, lacoste. growth (influence, content, pr, collabs) + community & social media. |
 
 ---
