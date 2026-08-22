@@ -1,6 +1,6 @@
 ### hi, i'm alexy.
 
-**head of growth · marketing engineer.**
+**head of growth · product · gtm · lifecycle · marketing engineer.**
 b2b + prosumer · founder @ [modjo](https://www.modjo.me/) · brussels.
 fr/en/es/nl · belgian + spanish · b. brussels 1995 · Solvay Business School · Bachelor's in Economics · Master's in Finance.
 
