@@ -12,13 +12,13 @@ spent the last decade building growth systems for b2b and prosumer companies. fr
 
 | company           | year      | what happened                                                                             |
 | :---------------- | :-------- | :---------------------------------------------------------------------------------------- |
-| Reveel Pay(ID)    | 2025      | multi-year engagement · launched Pay(ID) from zero, no prior brand or user base · $26M deposits, $200M transaction volume in 60-day launch · 121K users compounded to 571K transactions across the engagement · Nigeria surfaced as 3rd-largest market with zero targeting · additional product launches under the engagement · omnichain by design |
+| Modjo             | 2023–2026 | founded + bootstrapped to $2M+ revenue in 18 months, profitable, no outside capital · 70+ tech companies scaled across entertainment, AI, fintech, blockchain — including Potentially, an AI platform listed on the London Stock Exchange · led 50+ growth engagements personally, shipped 100+ growth plans · teams of 20+ across Brussels + NYC, with two sales reps and a head of growth reporting to me · rebuilt AI-native in 2026: cut to 3, better margins, at $40K/month |
 | xy.ai             | 2026      | ai-native healthcare RCM · ~$1.6M ARR · full B2B growth engine built from zero · ~1,500 accounts mapped with the full buying team · 12,500+ in the CRM · 1,559 decision-makers at 95% · 3,050 emails/week at <2% bounce · ~4,000 intent signals · a different message and a different format per committee role, not a merge field (email · DM · InMail · ads · retargeting · video) · audiences built per role off the same engagement data |
+| Reveel Pay(ID)    | 2025      | multi-year engagement · launched Pay(ID) from zero, no prior brand or user base · $26M deposits, $200M transaction volume in 60-day launch · 121K users compounded to 571K transactions across the engagement · Nigeria surfaced as 3rd-largest market with zero targeting · additional product launches under the engagement · omnichain by design |
 | Elixir Games      | 2024      | 6-month engagement · launched from zero, no prior brand or user base · $14M revenue, 250% over target, marketing spend cut 65% on a $400K budget · badge-system PLG loop, sustained retargeting off the badge-holder audience across the 6 months · creator and community-tournament partnerships month over month · additional game titles under the engagement |
+| bl0x              | 2022–2023 | growth marketing, paris. 50+ clients: binance, ledger, animoca, pmu, lacoste. growth (influence, content, pr, collabs) + community & social media. |
 | Jeux d'Hiver      | 2022      | 60,000+ paying customers in 6 months, brussels' most prestigious venue                    |
 | Green-In          | 2019–2021 | 4,000-person festival, $1M+ ARR, built from a garden at 22                                |
-| Modjo             | 2023–2026 | founded and bootstrapped to $2M+ · 70+ clients across entertainment, ai, fintech, blockchain · teams of 20+ |
-| bl0x              | 2022–2023 | growth marketing, paris. 50+ clients: binance, ledger, animoca, pmu, lacoste. growth (influence, content, pr, collabs) + community & social media. |
 
 ---
 
