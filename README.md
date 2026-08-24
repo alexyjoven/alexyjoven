@@ -12,7 +12,7 @@ spent the last decade building growth systems for b2b and prosumer companies. fr
 
 | company           | year      | what happened                                                                             |
 | :---------------- | :-------- | :---------------------------------------------------------------------------------------- |
-| Modjo             | 2023–2026 | founded + bootstrapped to $2M+ revenue in 18 months, profitable, no outside capital · 70+ tech companies scaled across entertainment, AI, fintech, blockchain — including Potentially, an AI platform listed on the London Stock Exchange · led 50+ growth engagements personally, shipped 100+ growth plans · **sales enablement on client deadlines: pitch decks, battle cards, demo scripts, one-pagers, case studies, sales playbooks** · positioning · messaging · GTM narratives · lifecycle · customer marketing · activation · retention · adoption · advocacy · teams of 20+ across Brussels + NYC, with two sales reps and a head of growth reporting to me · rebuilt AI-native in 2026: cut to 3, better margins, at $40K/month |
+| Modjo             | 2023–2026 | founded + bootstrapped to $2M+ revenue in 18 months, profitable, no outside capital · 70+ tech companies scaled across entertainment, AI, fintech, blockchain — including Potentially, an AI platform listed on the London Stock Exchange · led 50+ growth engagements personally, shipped 100+ growth plans · **sales enablement on client deadlines: pitch decks, battle cards, demo scripts, one-pagers, case studies, sales playbooks** · positioning · messaging · GTM narratives · lifecycle · customer marketing · activation · retention · adoption · advocacy · teams of 20+ across Brussels + NYC, with two sales reps and a head of growth reporting to me · **martech budget end to end: ~17 tools cut or downgraded in one consolidation pass** · **2026: killed the shape at 20 people when unit economics stopped working — bought out my co-founder, cut the team to 3, rebuilt AI-native at $40K/month. ~$110K/month at 20 people vs ~$40K/month at 3, revenue-per-head from ~$5.5K to ~$13K/month — my call on my own P&L.** |
 | xy.ai             | 2026      | ai-native healthcare RCM · ~$1.6M ARR · full B2B growth engine built from zero · **positioning, messaging and GTM narratives** for the AI platform across every committee role · ~1,500 accounts mapped with the full buying team · 12,500+ in the CRM · 1,559 decision-makers at 95% · 3,050 emails/week at <2% bounce · ~4,000 intent signals · a different message and a different format per committee role, not a merge field (email · DM · InMail · ads · retargeting · video) · audiences built per role off the same engagement data · behavioral scoring · trigger-based marketing · advisor-shape lifecycle |
 | Reveel Pay(ID)    | 2025      | multi-year engagement · launched Pay(ID) from zero, no prior brand or user base · $26M deposits, $200M transaction volume in 60-day launch · **PLG loop: gamified referral gate through 100+ trusted communities · post-launch product work kept the loop firing** · 121K users compounded to 571K transactions across the engagement · Nigeria surfaced as 3rd-largest market with zero targeting · additional product launches under the engagement · omnichain by design |
 | Kaisar Network    | 2024      | scaled to ~2M users in twelve months · product-native compounding loops with tiered membership access + participation multipliers + cohort campaigns · behavioral wallet-signal analysis · creator-led distribution across ~150 communities · loot-box triggered unlock returned ~$500K in revenue in two weeks on ~$600 in ads · Telegram MiniApp campaigns to ~1M active users |
@@ -36,14 +36,14 @@ the last two years i went deeper on the technical and engineering side.
 i run my own company as queryable code. an ontology of every customer, machine-enforced rules, agents that source, score and route, governance that blocks bad data at commit time. same discipline applied to the growth stack itself: attribution, martech ops, data model, funnel eng.
 
 ```
-registered spec nodes   ~530
+registered spec nodes   ~545
 systems                   23
-spec files              ~670
-python & shell modules    91
-git commits             ~990
+spec files              ~689
+python & shell modules   ~98
+git commits           ~1,292
 ```
 
-*regenerable count · re-run 2026-08-06 · v4 pre-commit + ci · one home per matter · mcp query layer.*
+*regenerable count · re-run 2026-08-24 · v4 pre-commit + ci · one home per matter · mcp query layer.*
 
 *private repos · this page is the write-up, not the code · live walkthrough on request.*
 
@@ -164,7 +164,7 @@ a buying signal is really a company moment. the person who posted it is often ju
 
 ### now
 
-open to head-of-growth / marketing-engineer conversations at b2b + prosumer companies.
+open to head of marketing / vp growth / head of growth / marketing engineer conversations at series b+ b2b + prosumer companies.
 
 ---
 
