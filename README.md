@@ -19,7 +19,7 @@ spent the last decade building growth systems for b2b and prosumer companies. fr
 | Elixir Games      | 2024      | 6-month engagement · launched from zero, no prior brand or user base · $14M revenue, 250% over target, marketing spend cut 65% on a $400K budget · badge-system PLG loop, sustained retargeting off the badge-holder audience across the 6 months · creator and community-tournament partnerships month over month · additional game titles under the engagement |
 | bl0x              | 2022–2023 | growth marketing, paris. 50+ brand engagements including binance, ledger, animoca, pmu, lacoste. **~100 creator community leaders driving ~$100M in revenue.** built as five engines, not campaigns: creator · ads and retargeting · content · partnerships · community-as-PLG. plus PR, events and hackathons. |
 | Jeux d'Hiver      | 2022      | 60,000+ paying customers in 6 months, brussels' most prestigious venue                    |
-| Green-In          | 2019–2021 | 4,000-person festival, $1M+ ARR, built from a garden at 22                                |
+| Green-In          | 2019–2021 | 4,000-person festival, $1M+ ARR, built from a garden at 24                                |
 
 ---
 
