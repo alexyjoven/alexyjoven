@@ -45,6 +45,8 @@ git commits             ~990
 
 *regenerable count · re-run 2026-08-06 · v4 pre-commit + ci · one home per matter · mcp query layer.*
 
+*private repos · this page is the write-up, not the code · live walkthrough on request.*
+
 **built one for [xy.ai](https://xy.ai)**, AI-native healthcare RCM company at ~$1.6M ARR. ~1,500 target companies mapped with the full buying team at each (12,500+ people in the CRM, all xy.ai-relevant), 1,559 decision-makers at 95% hit rate, 8 committee-role campaigns (CFO / CEO / CIO / COO / Champion / DRC / Office Manager / Admin Manager) staged, 8 dedicated sending domains, 16 warmed inboxes, 3,050 emails/week at <2% bounce rate. **a different message and a different format per committee role, not a different merge field**: email, DM, InMail, ads, retargeting, video. routed off their role and org size, what they open and click, which competitors they engage, and the stack they run (detected via amplemarket). audiences are built per committee role off that same engagement data. AI reply classifier (n8n + claude) auto-tags every reply hot/warm/cold/ooo, logs to hubspot, pings slack. daily safety net cross-checks hubspot + twenty + amplemarket, blocks matches before any smartlead send fires. ~4,000 buying-intent signals via 5 listening searches. hipaa + soc 2 posture, structurally phi-free.
 
 ---
@@ -174,3 +176,4 @@ open to head-of-growth / marketing-engineer conversations at b2b + prosumer comp
 - web · [modjo.me](https://www.modjo.me/)
 
 ---
+
