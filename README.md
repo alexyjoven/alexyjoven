@@ -1,7 +1,9 @@
+> **→ start here: [alexy.modjo.me](https://alexy.modjo.me)** · this readme is the extension.
+
 ### hi, i'm alexy.
 
 **head of growth · product · gtm · lifecycle · marketing engineer.**
-b2b + prosumer · founder @ [modjo](https://www.modjo.me/) · brussels.
+b2b + prosumer · founder @ [modjo](https://www.modjo.me/) · nyc + brussels.
 fr/en/es/nl · belgian + spanish · b. brussels 1995 · Solvay Business School · Bachelor's in Economics · Master's in Finance.
 
 spent the last decade building growth systems for b2b and prosumer companies. from zero to millions in revenue and fundraise. my own companies. my clients'.
@@ -152,7 +154,7 @@ a buying signal is really a company moment. the person who posted it is often ju
 
 **shape**: engine replaces the shop. built once (multi-tenant, brand-locked via one tokens.ts swap per client), then every future video runs at marginal cost. same operating pattern that runs the b2b engine, applied to creative production.
 
-→ one output ships under xy.ai (brand-locked).
+→ one output plays on [alexy.modjo.me](https://alexy.modjo.me) under this section (xy.ai brand-locked).
 
 ---
 
@@ -173,7 +175,9 @@ open to head of marketing / vp growth / head of growth / marketing engineer conv
 - linkedin · [alexy-joven-405075107](https://www.linkedin.com/in/alexy-joven-405075107/)
 - x (technical dives) · [@alexyjoven](https://x.com/alexyjoven)
 - email · alexy.joven@gmail.com
+- phone · 1-510-221-6181
 - web · [modjo.me](https://www.modjo.me/)
 
 ---
 
+*start here → [alexy.modjo.me](https://alexy.modjo.me) · this readme is the extension.*
