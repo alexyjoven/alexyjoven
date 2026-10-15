@@ -3,7 +3,7 @@
 ### hi, i'm alexy.
 
 **head of growth · product · gtm · lifecycle · marketing engineer.**
-b2b + prosumer · founder @ [modjo](https://www.modjo.me/) · brussels.
+b2b + prosumer · founder @ [modjo](https://www.modjo.me/) · nyc + brussels.
 fr/en/es/nl · belgian + spanish · b. brussels 1995 · Solvay Business School · Bachelor's in Economics · Master's in Finance.
 
 spent the last decade building growth systems for b2b and prosumer companies. from zero to millions in revenue and fundraise. my own companies. my clients'.
@@ -175,6 +175,7 @@ open to head of marketing / vp growth / head of growth / marketing engineer conv
 - linkedin · [alexy-joven-405075107](https://www.linkedin.com/in/alexy-joven-405075107/)
 - x (technical dives) · [@alexyjoven](https://x.com/alexyjoven)
 - email · alexy.joven@gmail.com
+- phone · 1-510-221-6181
 - web · [modjo.me](https://www.modjo.me/)
 
 ---
